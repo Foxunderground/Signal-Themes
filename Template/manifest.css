@@ -1,0 +1,70 @@
+/*-------------------------------------------------------------------------------
+|                      DDLC Yuri Theme for Signal Desktop                       |
+-------------------------------------------------------------------------------*/
+
+/*
+Tested on Signal v5.9.0
+By: Foxunderground
+*/
+
+/*Chat background*/
+.module-timeline {
+	background-image: url("");
+}
+
+/*Conversations pane background*/
+.module-left-pane {
+	background: ;
+}
+
+/*Mainscreen logo color*/
+.module-splash-screen__logo.module-logo-blue {
+	background-color: ;
+}
+
+/*Not sure what the next two do, I forgot lol*/
+.app-loading-screen {
+	background-color: ;
+}
+
+.panel {
+	background-color: ;
+}
+
+/*The next two are for the background colors of the messages*/
+.module-message__container--incoming {
+	background-color: !important;
+}
+
+.module-message__container--outgoing {
+	background-color: !important;
+}
+
+/*Color of the active conversation*/
+.dark-theme
+	.module-conversation-list__item--contact-or-conversation--is-selected {
+	background-color: #1c0072c4;
+}
+
+/*Color of the conversation when hovered over or clicked*/
+.dark-theme
+	.module-conversation-list__item--contact-or-conversation--is-button:hover:not(:disabled),
+.dark-theme
+	.module-conversation-list__item--contact-or-conversation--is-button:focus:not(:disabled) {
+	background-color: #411bb3c4;
+}
+
+/*  
+This is for the bottom bar, which contains the bar to send messages, howver I don't reccomend editing these
+
+THERE ARE MORE OPTIONS AVAILABLE IN THE ZERO TWO THEME BUT FRANKLY I AM JUST TO LAZY TO REFIGURE OUT WHAT EACH OF THEM DO
+I SUGGEST USING DARK IMAGES AND COLORS AS YOU NEED TO DO MINIMAL AMOUNTS OF MODIFICATIONS
+
+.dark-theme .bottom-bar form.send {
+	background-color: ;
+}
+*/
+
+/*-------------------------------------------------------------------------------
+|                      DDLC Yuri Theme for Signal Desktop                       |
+-------------------------------------------------------------------------------*/
