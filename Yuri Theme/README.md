@@ -16,7 +16,7 @@ This was tested with signal v5.9.0
 8. Finally open signal to test if it works.
 9. In the signal desktop app go to File > Preferences and select dark theme
 10. Finally click on the your profile icon in the top left corner of the screen besides the search bar, and then select chat color and select the dark blue / violet color 
-![image](https://user-images.githubusercontent.com/54197021/126078404-b4138ec9-bb84-4ed6-80e6-af429131b8eb.png)
 
+![image](https://user-images.githubusercontent.com/54197021/126078404-b4138ec9-bb84-4ed6-80e6-af429131b8eb.png)
 
 That is all. Feel free to open any issues or let me know if you have any improvements.
