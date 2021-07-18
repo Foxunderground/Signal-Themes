@@ -17,4 +17,6 @@ This was my first attempt at creating a theme for Signal, and so I didn't put to
 9. In the signal desktop app go to File > Preferences and select dark theme
 10. Finally click on the your profile icon in the top left corner of the screen besides the search bar, and then select chat color and select the red color (2nd color)
 
+![image](https://user-images.githubusercontent.com/54197021/126078500-0234d71f-e7db-4e18-99ae-cc1a354be52b.png)
+
 That is all. Feel free to open any issues or let me know if you have any improvements.
